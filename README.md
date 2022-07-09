@@ -22,11 +22,13 @@ The election audit showed:
 -There were 369,711 total votes.
 
 -They came from these counties:
+
     -Jefferson: 10.5% (38,855)
     -Denver: 82.8% (306,055)
     -Arapahoe: 6.7% (24,801)
 
 -There was three candidates: 
+
     -Charles Casper Stockham 
     -Diana DeGette 
     -Raymon Anthony Doane
@@ -38,6 +40,7 @@ The election audit showed:
     -Raymon Anthony Doane: 3.1% (11,606)
 
 -The winner of the election was: 
+
     -Diana DeGette
 
 
